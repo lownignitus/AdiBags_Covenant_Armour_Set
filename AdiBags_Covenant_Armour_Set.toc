@@ -1,9 +1,9 @@
 ## Interface: 90002
 ## Title: |cff00ff00AdiBags - Covenant Armour Set|r
-## Version: v1.0.0
+## Version: v1.0.1
 ## Author: |cffDA70D6LownIgnitus|r aka Mihkael-Alexstrasza
 ## Notes: Adds Covenant Armour Sets to AdiBags filter groups
-## X-Date: 2020/12/16
+## X-Date: 2020/12/30
 ## X-Website: https://github.com/lownignitus/AdiBags_Covenant_Armour_Set
 ## X-Category: Bags & Inventory
 ## Dependancies: AdiBags

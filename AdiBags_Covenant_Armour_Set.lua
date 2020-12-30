@@ -56,7 +56,20 @@ local kyrian = {
                 174294, -- Selfless Collector's Spaulders
                 174295, -- Selfless Collector's Girdle
                 174296, -- Selfless Collector's Wristguards
-                174297 -- Selfless Collector's Greatcloak
+                174297, -- Selfless Collector's Greatcloak
+                174301, -- Selfless Bearer's Labrys - Weapons
+                174313, -- Selfless Collector's Ward
+                175248, -- Selfless Bearer's Blade
+                175249, -- Selfless Collector's Javelin
+                177853, -- Selfless Watcher's Spellsword
+                177858, -- Selfless Forgelite's Longbow
+                177863, -- Selfless Watcher's Sidearm
+                177868, -- Selfless Bearer's Waylight
+                178970, -- Selfless Watcher's Spire
+                184239, -- Selfless Bearer's Warglave
+                184535, -- Selfless Forgelite's Hatchet
+                184536, -- Selfless Watcher's Edge
+                184537 -- Selfless Forgelite's Falchion
 }
 
 local necrolord = {
@@ -95,7 +108,19 @@ local necrolord = {
                 182255, -- Bladesworn Harbinger's Pauldrons
                 182256, -- Bladesworn Harbinger's Warbelt
                 182257, -- Bladesworn Harbinger's Vambracers
-                182258 -- Bladesworn Harbinger's Greatcloak
+                182258, -- Bladesworn Harbinger's Greatcloak
+                183450, -- Goreforged Shank - Weapons
+                183451, -- Goreforged Barrier
+                183452, -- Goreforged Focus
+                183453, -- Goreforged Mace
+                183454, -- Goreforged Warglave
+                183455, -- Goreforged Staff
+                183456, -- Goreforged Blunderbuss
+                183457, -- Goreforged Greataxe
+                183458, -- Goreforged Polearm
+                183459, -- Goreforged Cleaver
+                183460, -- Goreforged Sickle
+                183946 -- Goreforged Chopper
 }
 
 local nightFae = {
@@ -136,7 +161,19 @@ local nightFae = {
                 179891, -- Queensguard Greaves
                 179892, -- Queensguard Pauldrons
                 179893, -- Queensguard Girdle
-                179894 -- Queensguard Vambraces
+                179894, -- Queensguard Vambraces
+                179493, -- Fang of the Wild Hunt - Weapons
+                179529, -- Warspear of the Wild Hunt
+                179542, -- Warmaul of the Wild Hunt
+                179560, -- Scepter of the Wild Hunt
+                179567, -- Harp of the Wild Hunt
+                179580, -- Jaws of the Wild Hunt
+                179602, -- Bulkwark of the Wild Hunt
+                180005, -- Staff of the Wild Hunt
+                180021, -- Wand of the Wild Hunt
+                180079, -- Warbow of the Wild Hunt
+                180259, -- Warglave of the Wild Hunt
+                182319 -- Mace of the Wild Hunt
 }
 
 local venthyr = {
@@ -175,7 +212,20 @@ local venthyr = {
                 180921, -- Dread Sentinel's Ebony Spaulders
                 180924, -- Dread Sentinel's Ebony Girdle
                 180929, -- Dread Sentinel's Ebony Vambraces
-                180938 -- Dread Sentinel's Ebony Cloak
+                180938, -- Dread Sentinel's Ebony Cloak
+                181141, -- Ebony Soul Piercer - Weapons
+                181142, -- Dark Blade of the Repentant
+                181143, -- Claw of the Stoneborn Executioner
+                181144, -- Gavel of Dark Divination
+                181146, -- Singed Soul Spire
+                181148, -- Stave of Dark Passions
+                181149, -- Dredbat's Dark Guile
+                181150, -- Sin's Ebon Edge
+                181151, -- Souleater's Ebony Barb
+                181152, -- Dreadwing's Ebon Edge
+                181153, -- Ebony Dredspine Repeater
+                181154, -- Dark Bulkwark of Death's Vigil
+                181156 --Sineater's Dark Foci
 }
 
 local function MatchIDs_Init(self)
