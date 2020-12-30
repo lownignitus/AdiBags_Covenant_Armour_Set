@@ -143,6 +143,7 @@ local nightFae = {
                 176771, -- Oakheart Belt
                 179772, -- Oakheart Bracers
                 179773, -- Oakheart Cape
+                179774, -- Oakheart Vestment
                 181877, -- Runewarden's Greatcloak - Mail
                 181909, -- Runewarden's Hauberk
                 181910, -- Runewarden's Boots
