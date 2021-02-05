@@ -5,7 +5,7 @@ All items are broken down into categories, with itemID followed by the Item name
 
 Using these ItemIDs it filters them into a Covenant Armour group. 
 
-Latest version: v1.0.1
+Latest version: v1.0.2
 
 Requires AdiBags to work!
 

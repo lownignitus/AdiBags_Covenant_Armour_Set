@@ -1,6 +1,6 @@
 --[[
 Title: AdiBags - Covenant Armour Set
-Version: v1.0.0
+Version: v1.0.2
 Author LownIgnitus - Mihkael-Alexstrasza
 Adds Covenant Armour Sets to AdiBags filter groups
 ]]
